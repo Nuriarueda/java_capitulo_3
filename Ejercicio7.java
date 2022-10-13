@@ -6,5 +6,7 @@ public class Ejercicio7 {
       double sueldo = s.nextDouble();
       double sueldo2 = (sueldo/1.21);
       System.out.println("Tu sueldo final sera: " + sueldo2);
+      s.close();
+
     }
 }

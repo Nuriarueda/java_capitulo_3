@@ -8,6 +8,7 @@ public class Ejercicio1 {
         double numero2 = s.nextDouble();
         double total = ( numero1*numero2);
         System.out.println("La multiplicacion da: " + total); 
+        s.close();
       
     }
 }

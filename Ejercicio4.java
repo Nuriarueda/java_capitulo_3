@@ -14,6 +14,7 @@ public class Ejercicio4 {
       System.out.println("El resultado de la multiplicacion es: "+ multiplicacion);
       Double division = ( numero1 / numero2);
       System.out.println("El resultado de la division es: " + division);
+      s.close();
       
     }
 }

@@ -6,5 +6,6 @@ public class Ejercicio2 {
       double euros = s.nextDouble();
       double pesetas = ( 166.3860 * euros);
       System.out.println("Son: " + pesetas + "pesetas");  
+      s.close();
     }
 }

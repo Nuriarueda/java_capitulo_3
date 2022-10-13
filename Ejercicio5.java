@@ -8,5 +8,6 @@ public class Ejercicio5 {
       Double altura = s.nextDouble();
       Double area = (base*altura);
       System.out.println("El area del rectangulo es: " + area);
+      s.close();
         }
 }

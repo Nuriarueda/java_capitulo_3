@@ -8,5 +8,6 @@ public class Ejercicio6 {
       Double altura = s.nextDouble();
       Double area = (base*altura)/2;
       System.out.println("El area del triangulo es: " + area);
+      s.close();
         }
 }
